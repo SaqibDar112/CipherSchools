@@ -1,1 +1,44 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Title</title>
+
+</head>
+
+<body>
+    <h1>This is my first heading</h1>
+    <p>This is my first Paragraph</p>
+    <img src="https://media.licdn.com/dms/image/D5603AQHZ1fTx9jaUzA/profile-displayphoto-shrink_200_200/0/1716286643569?e=2147483647&v=beta&t=FPXqONVHTud_OXzYlWJmI1qWeA9U8RNIpMqPgl8_rDU"
+        alt="Image">
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Samosa</li>
+    </ul>
+    <div>
+        <p><b>Lorem</b> ipsum dolor sit amet consectetur adipisicing elit. Ab deleniti consequuntur quae delectus eaque,
+            esse
+            earum natus, sint asperiores laborum eligendi blanditiis, rem architecto consequatur corporis aspernatur
+            nisi
+            quod recusandae deserunt nesciunt excepturi<br>
+            cumque! Deleniti iusto voluptas <i>temporibus</i> excepturi et nisi
+            nesciunt doloribus repudiandae officia repellendus dolor, ratione<br> animi blanditiis? Eum nesciunt
+            exercitationem
+            est non error sapiente eveniet praesentium deserunt mollitia fuga qui eaque quisquam quo commodi, placeat
+            culpa
+            aspernatur beatae distinctio ex ipsam enim facilis ratione voluptates?<br> Earum accusantium illo, adipisci
+            fuga
+            ipsam nisi quisquam doloremque et quidem eligendi animi ex nostrum corrupti <br>rerum temporibus at. Facere,
+            itaque
+            rem.</p>
+    </div>
+    <hr>
+    <input type="text" placeholder="Type a message">
+</body>
+
+
+</html>
