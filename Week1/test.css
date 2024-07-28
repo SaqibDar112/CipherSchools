@@ -1,0 +1,27 @@
+/* p{
+    text-align:center
+} */
+
+#myParagraph {
+    /* text-align: center; */
+    background-color: aqua;
+}
+
+.classPara {
+    /* text-align:center; */
+    background-color: yellow;
+}
+
+span {
+    background-color: green;
+    font-size: larger;
+}
+
+#p2::first-letter {
+    color: rgb(173, 25, 50);
+}
+
+#p3:hover {
+    color: rgb(11, 134, 241);
+    transition: all;
+}
